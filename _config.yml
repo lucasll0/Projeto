@@ -21,10 +21,8 @@
 title: Um blog para jogos
 email: lucall@edu.unifil.br
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/Projeto" # the subpath of your site, e.g. /blog
+ Um site de jogos feito para trazer as melhores resenhas, análises, e curiosidades sobre diversos jogos.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lucasll0.github.io/Projeto/" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  lucasll0
