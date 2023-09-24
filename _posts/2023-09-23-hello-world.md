@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "O castelo animado"
-date:   2023-09-17 15:16:45 -0300
+title:  "Zelda"
+date:   2023-09-12 15:21:00 -0300
 description: Uma Jornada Encantadora no "Castelo Animado" de Diana Wynne Jones
 categories: jekyll update
 ---

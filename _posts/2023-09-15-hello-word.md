@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A guerra do velho"
-date:   2023-09-16 20:07:45 -0300
+title:  "God of War"
+date:   2023-09-16 13:12:00 -0300
 categories: jekyll update
 ---
 
