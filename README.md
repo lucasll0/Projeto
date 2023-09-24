@@ -1,4 +1,4 @@
-# [Blog de jogos](https://lucasll0.github.io/) - um blog utilizando Jekyll, GitHub Actions e GitHub Pages
+# [Blog de jogos](https://lucasll0.github.io/Projeto/) - um blog utilizando Jekyll, GitHub Actions e GitHub Pages
 
 ## 📌 Sobre o trabalho:
 Este trabalho fez uso da jamstack Jekyll, para gerar um site estático, implementando diferentes ações de workflow e usar os princípios básico de gerencionameto de versões.
@@ -35,8 +35,9 @@ O GitHub Actions é um serviço de automação de fluxo de CI/CD fornecido pelo 
 
 ###### Trabalhos: São grupos de tarefas que você configura para serem executadas.
 
+#### Criação do arquivo: Para começar, crie um arquivo .github/workflows/nome-do-fluxo.yml no seu repositório. Este arquivo contém as instruções para o GitHub Actions sobre o que fazer quando um evento ocorre.
+
 **Fluxos de trabalho**: São definidos em arquivos YAML no diretório .github/workflows. Eles são acionados por eventos específicos, como abrir uma solicitação de pull ou fazer um envio (push) de código.
-###### *Criação do arquivo*: Para começar, crie um arquivo .github/workflows/nome-do-fluxo.yml no seu repositório. Este arquivo contém as instruções para o GitHub Actions sobre o que fazer quando um evento ocorre.
 
 **Execução**:  Quando o evento desejado acontece, o GitHub Actions inicia automaticamente o fluxo de trabalho, seguindo as etapas que você definiu no arquivo YAML.
 
