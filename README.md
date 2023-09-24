@@ -92,50 +92,14 @@ vendor
 
 ### **Algum outro desafio**
 
+![img4]()
 
 ### **Rebase Interativo**
 
-Utilizando o `Git log ` do Git para explorar o histórico do repositório:
-
-![Captura de tela 2023-09-17 143245](https://github.com/el1ziane/el1ziane.github.io/assets/113150368/0526825f-dabf-4c1e-add3-a266e8460fab)
-
-Especificando o intervalo de commits a serem modificados. Nesse caso, para modificar qualquer um dos últimos 3 commits:
-
-```
-git rebase --interactive HEAD~3
-```
-
-![Captura de tela 2023-09-17 144246](https://github.com/el1ziane/el1ziane.github.io/assets/113150368/7f20fe87-3fc6-4d84-9ea6-f73faafecc4e)
-
-Utilizando `squash` para comprimir dois commits em um e reword para reescrever a mensagem de um commit.
-
-![Captura de tela 2023-09-17 150957](https://github.com/el1ziane/el1ziane.github.io/assets/113150368/53406abb-edaf-4547-86cf-ddaacfb16a92)
-
-Reescrevendo a mensagem do primeiro commit.
-
-Após o rebase é possivel observar que dois commits foram convertidos em 1 e que a mensagem foi reescrita:
-
-![Captura de tela 2023-09-17 151055](https://github.com/el1ziane/el1ziane.github.io/assets/113150368/92023fad-957d-47dc-8944-427eae173d50)
-
-![Captura de tela 2023-09-17 151244](https://github.com/el1ziane/el1ziane.github.io/assets/113150368/777e4650-a0e2-4b76-ad7c-7dc3ad64cd61)
-
+![img2]()
 
 ### **Branch Protegida**
 
-![img2]()
-
-Indo até `⚙️settings` e depois em criar uma nova regra foram selecionadas as seguintes configurações:
-
-![Captura de tela 2023-09-18 213840](https://github.com/el1ziane/el1ziane.github.io/assets/113150368/ed858b1c-586e-4d48-b5d1-f395bbe9752e)  
-
-Brach protegida!
-
-![Captura de tela 2023-09-17 092013](https://github.com/el1ziane/el1ziane.github.io/assets/113150368/98b2e412-3d2b-4e14-b151-ea83a987414f)
-Quando alguém tenta fazer um push que não atende às condições estabelecidas nas regras de proteção, o GitHub normalmente impede o push e exibe uma mensagem de erro.
-No entanto, ao realizar um push para o brach principal houve a seguinte saida:
-```
-remote: Bypassed rule violations for refs/heads/main:
-```
-A mensagem indica que esse push violou alguma das regras de proteção configuradas para o branch. No entanto, o Git permitiu o contorno dessas regras. Isso geralmente acontece quando o autor do push tem permissões especiais, como acesso de administrador ou proprietário do repositório.
+![img3]()
 
 
