@@ -1,4 +1,4 @@
-# [Blog de jogos](https://lucasll0.github.io/Projeto/) - um blog utilizando Jekyll, GitHub Actions e GitHub Pages
+# [Blog de jogos](https://lucasll0.github.io/Projeto/) 
 
 ## 📌 Sobre o trabalho:
 Este trabalho fez uso da jamstack Jekyll, para gerar um site estático, implementando diferentes ações de workflow e usar os princípios básico de gerencionameto de versões.
