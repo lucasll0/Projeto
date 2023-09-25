@@ -49,7 +49,7 @@ O GitHub Actions é um serviço de automação de fluxo de CI/CD fornecido pelo 
 
 Neste repositório estão presente os seguintes fluxos de trabalho:
 
-![image](https://github.com/el1ziane/el1ziane.github.io/assets/113150368/7960e97e-2bb0-4fa1-aa39-4faf2d935a2e)
+![image](img de arquivo de actions)
 
 ## **ESLint**
 
@@ -57,9 +57,7 @@ Instalação:
 
 ![Captura de tela 2023-09-17 093955](imagem de instalação através do VSCode)
 
-Realizando a configuração em: `⚙️settings`, pesquisando por ```“editor.codeActionsOnSave”```:
-
-![Captura de tela 2023-09-20 173427](https://github.com/el1ziane/el1ziane.github.io/assets/113150368/25dfbe04-81b4-482d-b21c-2b4ff081cb82)
+![Captura de tela 2023-09-20 173427](img setting)
 
 No terminal será necessário digitar:
 
@@ -77,10 +75,10 @@ Pacotes intalados no projeto!
 
 [img0](Imagem de barra lateral esquerda)
 
-## 🚀 Desafios
+## Desafios:
 
 ### **Arquivo de configuração** `.gitignore`:
-Por estar utilizando Jekyll com `bundler`, foi necessário seguir a documentação do Jekyll e adicionar os seguintes arquivos ao `.gitignore`:
+Por utilizar Jekyll com `bundler`, foi necessário aidionar ao `.gitignore` os seguintes arquivos:
 ```
 _site
 .sass-cache
